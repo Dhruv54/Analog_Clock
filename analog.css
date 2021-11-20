@@ -20,10 +20,10 @@
 }
 
 #hour {
-    height: 25%;
-    width: 1.8%;
-    left: 48.95%;
-    top: 23%;
+    height: 23%;
+    width: 2.4%;
+    left: 49.6%;
+    top: 25.7%;
     opacity: 0.8;
     background-color: black;
 }
@@ -31,7 +31,7 @@
 #minute {
     height: 30%;
     width: 1.6%;
-    left: 50%;
+    left: 49.9%;
     top: 19%;
     opacity: 0.8;
     background-color: black;
@@ -39,9 +39,9 @@
 
 #second {
     height: 40%;
-    width: 1%;
-    left: 50%;
-    top: 9.1%;
+    width: 0.8%;
+    left: 50.4%;
+    top: 8.5%;
     opacity: 0.8;
     background-color: red;
 }
@@ -49,16 +49,16 @@
 .baje12 {
     /* background: orange; */
     position: absolute;
-    margin-left: 48%;
+    margin-left: 47%;
     font-size: 50px;
 }
 
 .baje3 {
     /* background: orange; */
     position: absolute;
-    margin-left: 95%;
+    margin-left: 94%;
     font-size: 50px;
-    margin-top: 39vh;
+    margin-top: 37vh;
 }
 
 .baje6 {
@@ -66,15 +66,15 @@
     position: absolute;
     margin-left: 48.5%;
     font-size: 50px;
-    margin-top: 77vh;
+    margin-top: 76vh;
 }
 
 .baje9 {
     /* background: orange; */
     position: absolute;
-    margin-left: 10px;
+    margin-left: 5px;
     font-size: 50px;
-    margin-top: 39vh;
+    margin-top: 37vh;
 }
 
 .dtime {
@@ -82,8 +82,8 @@
     /* height: 20px;
     width: 100px; */
     position: absolute;
-    top: 200px;
-    left: 550px;
+    top: 160px;
+    left: 645px;
     text-align: center;
     /* border: 2px solid black; */
     border-radius: 5px;
@@ -94,7 +94,7 @@
 .dday {
     position: absolute;
     top: 510px;
-    left: 560px;
+    left: 590px;
     text-align: center;
     /* border: 2px solid black; */
     border-radius: 5px;
@@ -110,6 +110,6 @@
     /* text-align: center; */
     /* border: 2px solid black; */
     border-radius: 5px;
-    /* font-size: 30px; */
+    font-size: 20px;
     padding: 10px;
 }
