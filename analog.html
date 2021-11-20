@@ -8,9 +8,28 @@
     <title>Analog_Clock</title>
     <link rel="stylesheet" href="analog.css">
     <script src="analog.js"></script>
+    <style>
+        body,
+        html {
+            height: 100%;
+            margin: 0;
+        }
+        
+        .bg {
+            /* The image used */
+            background-image: url("/sunset-sky-mountains-beautiful.jpg");
+            /* Full height */
+            height: 100%;
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
 </head>
 
 <body>
+    <div class="bg"></div>
     <div id="clockContainer">
         <div class="dot"></div>
         <div class="baje12">12</div>
@@ -20,6 +39,12 @@
         <div id="hour"></div>
         <div id="minute"></div>
         <div id="second"></div>
+    </div>
+    <div id="time" class="dtime"></div>
+    <div id="day" class="dday"></div>
+    <div class="welcome">
+        <h1>Hello Dhruv :)</h1>
+        <h2>Welcome to Our Analog+Digital Website!!!</h2>
     </div>
 </body>
 
