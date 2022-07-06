@@ -1,3 +1,2 @@
-# Analog_Clock
-
-## Using Pure HTML CSS JavaScript
+# Analog Clock
+## Using Pure HTML, CSS, JS
